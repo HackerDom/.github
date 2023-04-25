@@ -1,12 +1,9 @@
-## Hi there 👋
+### We are Hackerdom.
+A group of computer security enthusiasts and researchers.
 
-<!--
+## Our own competitions
+- [RuCTF Finals](https://ructf.org) (ex RuCTF)
+- [RuCTF](https://ructf.org/) (ex RuCTFE)
+- [QCTF](https://qctf.org)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Hackerdom team appeared in the fall of 2005 at the Mathematics and Mechanics Department of the Ural State University. The main activities of the team are the study of computer security, participation in Capture The Flag competitions, as well as hosting their own competitions.
