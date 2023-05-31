@@ -6,4 +6,4 @@ Hackerdom team appeared in the fall of 2005 at the Mathematics and Mechanics Dep
 ## Our own competitions
 - [RuCTF Finals](https://ructf.org) (ex RuCTF)
 - [RuCTF](https://ructf.org/) (ex RuCTFE)
-- [QCTF](https://qctf.org)
+- [QCTF](https://qctf.ru)
